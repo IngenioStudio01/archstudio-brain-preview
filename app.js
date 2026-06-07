@@ -1660,7 +1660,7 @@ async function triggerStudioChat() {
 
   // Send request to API
   let botResponse = '';
-  const apiKey = db.settings ? db.settings.geminiApiKey : '';
+  const apiKey = (db.settings && db.settings.geminiApiKey && !db.settings.geminiApiKey.startsWith('•')) ? db.settings.geminiApiKey : '';
 
   if (apiOfflineFallback) {
     // Offline client query search engine
@@ -1868,7 +1868,7 @@ async function generateAiWeeklySummary() {
   summaryContainer.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
 
   try {
-    const apiKey = db.settings ? db.settings.geminiApiKey : '';
+    const apiKey = (db.settings && db.settings.geminiApiKey && !db.settings.geminiApiKey.startsWith('•')) ? db.settings.geminiApiKey : '';
     if (apiKey) {
       // Direct client-side Gemini execution to bypass 10s Vercel serverless timeout limit
       const context = buildWeeklySummaryContext();
