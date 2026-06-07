@@ -1,0 +1,2479 @@
+{
+  "projects": [
+    {
+      "id": "proj-1",
+      "name": "CMR SOET",
+      "client": "CMR Group",
+      "phase": "",
+      "description": "This is an Engineering Block inside CMR's Lakeside Campus in Bagalur.",
+      "timeline": [
+        {
+          "date": "2026-06-06T15:37:32.143Z",
+          "speaker": "Shriya",
+          "category": "Design Drafting",
+          "text": "Drafted floor plans and interior elevations for the girls' washroom, incorporating necessary design corrections."
+        },
+        {
+          "date": "2026-06-06T14:36:51.238Z",
+          "speaker": "Shon Prasad",
+          "category": "Consultant Coordination",
+          "text": "Finalized and transmitted HVAC design comments to the external consultant."
+        },
+        {
+          "date": "2026-06-04T14:44:30.841Z",
+          "speaker": "Shriya",
+          "category": "Design Drafting",
+          "text": "Drafted interior elevations for ground floor girls' washroom"
+        },
+        {
+          "date": "2026-06-04T06:57:26.332Z",
+          "speaker": "Shon Prasad",
+          "category": "Design Drafting",
+          "text": "Develop 3D architectural model for SOET"
+        },
+        {
+          "date": "2026-06-03T04:48:08.691Z",
+          "speaker": "Hanan",
+          "category": "Design Drafting",
+          "text": "Coordinated girls' restroom modelling and verified drawings with Shriya."
+        },
+        {
+          "date": "2026-06-03T04:48:08.691Z",
+          "speaker": "Hanan",
+          "category": "Design Drafting",
+          "text": "Finalized and dispatched hardcopy documentation."
+        },
+        {
+          "date": "2026-06-03T04:48:08.691Z",
+          "speaker": "Hanan",
+          "category": "Design Drafting",
+          "text": "Performed section corrections for project drawings."
+        },
+        {
+          "date": "2026-06-03T04:48:08.691Z",
+          "speaker": "Hanan",
+          "category": "Consultant Coordination",
+          "text": "Issued electrical annexure to the vendor."
+        },
+        {
+          "date": "2026-06-03T15:32:27.629Z",
+          "speaker": "Shriya",
+          "category": "Design Drafting",
+          "text": "Implemented revisions to washroom floor plan and structural layout"
+        },
+        {
+          "date": "2026-06-03T15:32:27.629Z",
+          "speaker": "Shriya",
+          "category": "Design Drafting",
+          "text": "Modelled plumbing layout for girls' washroom"
+        },
+        {
+          "date": "2026-06-02T05:04:37.129Z",
+          "speaker": "Hanan",
+          "category": "Design Drafting",
+          "text": "Organized and prepared hardcopy print files"
+        },
+        {
+          "date": "2026-06-02T05:04:37.129Z",
+          "speaker": "Hanan",
+          "category": "Design Drafting",
+          "text": "Processed and reviewed electrical drawing comments"
+        },
+        {
+          "date": "2026-06-02T05:04:37.129Z",
+          "speaker": "Hanan",
+          "category": "Site Supervision",
+          "text": "Issued PHE reference drawings to site"
+        },
+        {
+          "date": "2026-06-02T05:04:37.129Z",
+          "speaker": "Hanan",
+          "category": "Design Drafting",
+          "text": "Released ground floor electrical GFC lighting layout and dimension drawings"
+        },
+        {
+          "date": "2026-06-02T14:36:13.747Z",
+          "speaker": "Shriya",
+          "category": "Design Drafting",
+          "text": "Completed 3D modeling and detailed finishing for the girls' washroom in SketchUp"
+        },
+        {
+          "date": "2026-06-01T15:39:12.589Z",
+          "speaker": "Shriya",
+          "category": "Design Drafting",
+          "text": "Modelled structure and interior elements for the girls' washroom core in SketchUp."
+        },
+        {
+          "date": "2026-05-29T14:52:01.949Z",
+          "speaker": "Shon Prasad",
+          "category": "Consultant Coordination",
+          "text": "Coordinated external chilled water pipe routing with HVAC consultant"
+        },
+        {
+          "date": "2026-05-29T13:45:08.832Z",
+          "speaker": "Shriya",
+          "category": "Design Drafting",
+          "text": "Developed Girls toilet model"
+        },
+        {
+          "date": "2026-05-25T10:32:40.041Z",
+          "speaker": "Meural",
+          "category": "Design Drafting",
+          "text": "Update #1: CMR SOET - Door window schedule"
+        },
+        {
+          "date": "2026-05-25T13:36:37.848Z",
+          "speaker": "Stephena",
+          "category": "Design Drafting",
+          "text": "Refining plan openings and adding annotation comments"
+        },
+        {
+          "date": "2026-05-25T15:25:05.819Z",
+          "speaker": "Shon Prasad",
+          "category": "Consultant Coordination",
+          "text": "Ongoing review and verification of HVAC systems."
+        },
+        {
+          "date": "2026-05-25T16:47:48.378Z",
+          "speaker": "Meural",
+          "category": "Design Drafting",
+          "text": "Prepared door and window schedules and generated GFC drawings for each"
+        },
+        {
+          "date": "2026-05-25T18:35:21.690Z",
+          "speaker": "Hanan",
+          "category": "Design Drafting",
+          "text": "Updated project drawing schedule"
+        },
+        {
+          "date": "2026-05-25T18:35:21.690Z",
+          "speaker": "Hanan",
+          "category": "Design Drafting",
+          "text": "Revised facade glazing drawings"
+        },
+        {
+          "date": "2026-05-25T18:35:21.690Z",
+          "speaker": "Hanan",
+          "category": "Client Presentation",
+          "text": "Submitted electrical contractor list to client"
+        },
+        {
+          "date": "2026-05-25T18:35:21.690Z",
+          "speaker": "Hanan",
+          "category": "Design Drafting",
+          "text": "Corrected and issued staircase mid-landing drawings to site"
+        },
+        {
+          "date": "2026-05-25T18:35:21.690Z",
+          "speaker": "Hanan",
+          "category": "Design Drafting",
+          "text": "Issued revised slab reinforcement and beam schedule drawings to site"
+        },
+        {
+          "date": "2026-05-25T18:35:21.690Z",
+          "speaker": "Hanan",
+          "category": "Consultant Coordination",
+          "text": "Compiled contractor list for procurement"
+        },
+        {
+          "date": "2026-05-27T05:39:29.712Z",
+          "speaker": "Hanan",
+          "category": "Design Drafting",
+          "text": "Issued podium planter box construction details to site team"
+        },
+        {
+          "date": "2026-05-27T05:39:29.712Z",
+          "speaker": "Hanan",
+          "category": "Design Drafting",
+          "text": "Reviewed section drawings for technical accuracy"
+        },
+        {
+          "date": "2026-05-27T05:39:29.712Z",
+          "speaker": "Hanan",
+          "category": "Site Supervision",
+          "text": "Conducted site visit to monitor progress"
+        },
+        {
+          "date": "2026-05-27T06:41:15.122Z",
+          "speaker": "Shon Prasad",
+          "category": "Site Supervision",
+          "text": "Performed site visit to address and resolve construction queries"
+        },
+        {
+          "date": "2026-05-27T14:42:21.413Z",
+          "speaker": "Shon Prasad",
+          "category": "Design Drafting",
+          "text": "Drafted and shared the ground floor sunken area lighting plan with the consultant"
+        }
+      ]
+    },
+    {
+      "id": "proj-2",
+      "name": "CMR Academic Block Phase 02",
+      "client": "CMR Group",
+      "phase": "",
+      "description": "Phase 02 of the Academic Block inside CMR's Lakeside Campus in Bagalur",
+      "timeline": [
+        {
+          "date": "2026-06-05T04:23:08.106Z",
+          "speaker": "Hariharan",
+          "category": "Design Drafting",
+          "text": "Develop architectural sections."
+        },
+        {
+          "date": "2026-06-05T04:23:08.106Z",
+          "speaker": "Hariharan",
+          "category": "Site Supervision",
+          "text": "Issue planter box demolition detail and area statement to site; coordinate second-floor formwork layout revisions with structural team."
+        },
+        {
+          "date": "2026-06-03T04:27:18.817Z",
+          "speaker": "Hariharan",
+          "category": "Design Drafting",
+          "text": "Updated SketchUp model (corridors, beams, and slabs) and completed section drawing in CAD."
+        },
+        {
+          "date": "2026-06-03T06:07:49.101Z",
+          "speaker": "Hariharan",
+          "category": "Site Supervision",
+          "text": "Issued column layout and center line grid layout drawings to the site team."
+        },
+        {
+          "date": "2026-05-30T05:37:57.865Z",
+          "speaker": "Hariharan",
+          "category": "Design Drafting",
+          "text": "Annotated dimensions for architectural drawings and finalized one building section."
+        },
+        {
+          "date": "2026-05-27T06:48:28.455Z",
+          "speaker": "Hariharan",
+          "category": "Design Drafting",
+          "text": "Annotating dimensions on architectural plans"
+        },
+        {
+          "date": "2026-05-27T06:48:28.455Z",
+          "speaker": "Hariharan",
+          "category": "Design Drafting",
+          "text": "Dispatched hardcopies of architectural and structural drawings"
+        },
+        {
+          "date": "2026-05-27T06:41:15.122Z",
+          "speaker": "Shon Prasad",
+          "category": "Site Supervision",
+          "text": "Conducted site inspection of column demolition process; completion expected in 48 hours"
+        },
+        {
+          "date": "2026-05-25T15:25:05.819Z",
+          "speaker": "Shon Prasad",
+          "category": "Consultant Coordination",
+          "text": "Finalized structural layout and issued review comments for the first floor."
+        },
+        {
+          "date": "2026-05-25T10:45:10.870Z",
+          "speaker": "Hariharan",
+          "category": "Design Drafting",
+          "text": "Finalized architectural plan revisions for the first floor"
+        },
+        {
+          "date": "2026-05-25T10:45:10.870Z",
+          "speaker": "Hariharan",
+          "category": "Consultant Coordination",
+          "text": "Completed formwork layout revisions for first and second floors and coordinated with the structural engineering team"
+        }
+      ]
+    },
+    {
+      "id": "proj-3",
+      "name": "CMR Academic Block Phase 01 Interior",
+      "client": "CMR Group",
+      "phase": "",
+      "description": "Phase 01 Interiors of the Academic Block inside CMR's Lakeside Campus in Bagalur",
+      "timeline": [
+        {
+          "date": "2026-06-05T14:24:52.228Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Selected PET panels and paint specifications for HOD and Dean's rooms"
+        },
+        {
+          "date": "2026-05-30T03:29:10.290Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Selected and shared lighting fixture specifications for Dean and HOD spaces"
+        },
+        {
+          "date": "2026-05-29T14:52:01.949Z",
+          "speaker": "Shon Prasad",
+          "category": "Client Presentation",
+          "text": "Shared Dean's room Bill of Quantities (BOQ) with client"
+        },
+        {
+          "date": "2026-05-27T14:42:21.413Z",
+          "speaker": "Shon Prasad",
+          "category": "Client Presentation",
+          "text": "Verified and finalized the Dean's room lighting BOQ with the client"
+        },
+        {
+          "date": "2026-05-27T14:41:09.501Z",
+          "speaker": "Aardhra",
+          "category": "Consultant Coordination",
+          "text": "Cross-verified electrical Bill of Quantities (BOQ) with consultant and internal project data"
+        },
+        {
+          "date": "2026-05-27T14:41:09.501Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Issued 3D visualizations for corridor-to-cabinet false ceiling detailing to the Index team"
+        },
+        {
+          "date": "2026-05-27T06:41:15.122Z",
+          "speaker": "Shon Prasad",
+          "category": "Consultant Coordination",
+          "text": "Coordinated HVAC drain routing, false ceiling details for Dean's office, and light fixture specifications"
+        },
+        {
+          "date": "2026-05-25T15:25:05.819Z",
+          "speaker": "Shon Prasad",
+          "category": "Design Drafting",
+          "text": "Finalized interior finish selections including fabric, carpet, and paint specifications."
+        },
+        {
+          "date": "2026-05-25T14:01:37.217Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Revised reflected ceiling plan (RCP) drawings for Dean and HOD spaces and issued to client and vendors"
+        },
+        {
+          "date": "2026-05-25T14:01:37.217Z",
+          "speaker": "Aardhra",
+          "category": "Client Presentation",
+          "text": "Finalized samples and finishes presentation; selected carpet, paint, and fabric options"
+        }
+      ]
+    },
+    {
+      "id": "proj-4",
+      "name": "CMR Sports Block",
+      "client": "CMR Group",
+      "phase": "",
+      "description": "Sports Block building inside CMR's Lakeside Campus in Bagalur",
+      "timeline": [
+        {
+          "date": "2026-06-04T14:56:46.834Z",
+          "speaker": "Rithin Sam",
+          "category": "Client Presentation",
+          "text": "Refined design iteration for the sports block and developed presentation materials and architectural renders for PED and client approval."
+        },
+        {
+          "date": "2026-06-02T14:35:48.342Z",
+          "speaker": "Rithin Sam",
+          "category": "Client Presentation",
+          "text": "Submit requirement comparison between PED and Ingenio design proposal for internal review"
+        },
+        {
+          "date": "2026-06-02T14:35:48.342Z",
+          "speaker": "Rithin Sam",
+          "category": "Design Drafting",
+          "text": "Update sections and plans for structural consultant coordination"
+        },
+        {
+          "date": "2026-06-01T14:34:32.410Z",
+          "speaker": "Rithin Sam",
+          "category": "Design Drafting",
+          "text": "Performed comparative analysis between PED requirements and current design documentation."
+        },
+        {
+          "date": "2026-05-29T16:03:56.396Z",
+          "speaker": "Rithin Sam",
+          "category": "Design Drafting",
+          "text": "Draft interior detailing for the VIP lounge area"
+        },
+        {
+          "date": "2026-05-29T14:52:01.949Z",
+          "speaker": "Shon Prasad",
+          "category": "Client Presentation",
+          "text": "Shared presentation with client for approval"
+        },
+        {
+          "date": "2026-05-27T07:36:42.452Z",
+          "speaker": "Dhanavarsha",
+          "category": "Client Presentation",
+          "text": "Completed the architectural plan presentation"
+        },
+        {
+          "date": "2026-05-27T06:48:28.455Z",
+          "speaker": "Hariharan",
+          "category": "Design Drafting",
+          "text": "Developing rendered section and floor plan using Photoshop"
+        },
+        {
+          "date": "2026-05-27T06:47:29.941Z",
+          "speaker": "Rithin Sam",
+          "category": "Design Drafting",
+          "text": "Developing VIP lounge design and exterior render visuals"
+        },
+        {
+          "date": "2026-05-27T06:47:29.941Z",
+          "speaker": "Rithin Sam",
+          "category": "Client Presentation",
+          "text": "Prepared presentation deck integrated with interior renders"
+        },
+        {
+          "date": "2026-05-27T06:47:29.941Z",
+          "speaker": "Rithin Sam",
+          "category": "Design Drafting",
+          "text": "Completed interior architectural renders"
+        },
+        {
+          "date": "2026-05-27T06:41:15.122Z",
+          "speaker": "Shon Prasad",
+          "category": "Client Presentation",
+          "text": "Conducted programming meeting with the Sports Director to define facility requirements"
+        },
+        {
+          "date": "2026-05-26T15:37:24.337Z",
+          "speaker": "Abhishri",
+          "category": "Client Presentation",
+          "text": "Post-processing sections in Photoshop for client presentation"
+        },
+        {
+          "date": "2026-05-25T14:19:36.916Z",
+          "speaker": "Pravin Raj Kumar",
+          "category": "Design Drafting",
+          "text": "Advancing cross-section documentation; completion scheduled for next business day."
+        },
+        {
+          "date": "2026-05-25T10:33:29.543Z",
+          "speaker": "Rithin Sam",
+          "category": "Design Drafting",
+          "text": "Delegate interior presentation tasks to junior staff"
+        },
+        {
+          "date": "2026-05-25T10:33:29.543Z",
+          "speaker": "Rithin Sam",
+          "category": "Client Presentation",
+          "text": "Develop interior presentation materials"
+        }
+      ]
+    },
+    {
+      "id": "proj-5",
+      "name": "CMR Trust Office",
+      "client": "CMR Group",
+      "phase": "",
+      "description": "Flagship Trust Office Block inside CMR's Lakeside Campus in Bagalur. This will be their HQ once the project gets constructed",
+      "timeline": [
+        {
+          "date": "2026-06-05T16:25:06.663Z",
+          "speaker": "Shriya",
+          "category": "Design Drafting",
+          "text": "Introduced project scope and revised floor plans based on updated requirements."
+        },
+        {
+          "date": "2026-05-25T14:19:36.916Z",
+          "speaker": "Pravin Raj Kumar",
+          "category": "Design Drafting",
+          "text": "Completed quality assurance and site-issued drawing release."
+        }
+      ]
+    },
+    {
+      "id": "proj-6",
+      "name": "CMR Lakeside Campus Masterplan",
+      "client": "CMR Group",
+      "phase": "",
+      "description": "Mini Masterplan of CMR's Lakeside Campus in Bagalur",
+      "timeline": []
+    },
+    {
+      "id": "proj-7",
+      "name": "EKYA SPARC",
+      "client": "EKYA Schools",
+      "phase": "",
+      "description": "Mini sports block of EKYA School JP Nagar is an annexure block for the school",
+      "timeline": [
+        {
+          "date": "2026-06-02T14:35:39.592Z",
+          "speaker": "Dhanavarsha",
+          "category": "Design Drafting",
+          "text": "Reviewed grade beam layout and identified design revisions"
+        },
+        {
+          "date": "2026-06-02T14:35:39.592Z",
+          "speaker": "Dhanavarsha",
+          "category": "Design Drafting",
+          "text": "Developed 3D models and shop drawings for the staircase assembly"
+        },
+        {
+          "date": "2026-06-01T14:58:03.512Z",
+          "speaker": "Dhanavarsha",
+          "category": "Design Drafting",
+          "text": "Drafting and preparing section GFCs for site issuance"
+        },
+        {
+          "date": "2026-06-01T14:58:03.512Z",
+          "speaker": "Dhanavarsha",
+          "category": "Consultant Coordination",
+          "text": "Issued comments for electrical lower ground floor layout and PHE earthing details to electrical consultant"
+        },
+        {
+          "date": "2026-06-01T14:58:03.512Z",
+          "speaker": "Dhanavarsha",
+          "category": "Consultant Coordination",
+          "text": "Reviewed and provided feedback on HVAC layout"
+        },
+        {
+          "date": "2026-05-30T14:57:18.876Z",
+          "speaker": "Shon Prasad",
+          "category": "Consultant Coordination",
+          "text": "Coordinated architectural plan discrepancies with site team regarding electrical drawing specifications."
+        },
+        {
+          "date": "2026-05-29T14:52:01.949Z",
+          "speaker": "Shon Prasad",
+          "category": "Design Drafting",
+          "text": "Issued Good for Construction (GFC) electrical drawings for Lower Ground Floor to site team"
+        },
+        {
+          "date": "2026-05-25T15:25:05.819Z",
+          "speaker": "Shon Prasad",
+          "category": "Consultant Coordination",
+          "text": "Reviewed and submitted Electrical BOQ to client; reviewed PHE BOQ and initiated coordination with consultant."
+        }
+      ]
+    },
+    {
+      "id": "proj-8",
+      "name": "Raks Pallikkoodam",
+      "client": "Shwetha Krishnamoorthi",
+      "phase": "",
+      "description": "Architectural drafting and consultant scope.",
+      "timeline": [
+        {
+          "date": "2026-06-05T19:55:24.020Z",
+          "speaker": "Mishal",
+          "category": "Client Presentation",
+          "text": "Shared door and window schedules with the client."
+        },
+        {
+          "date": "2026-06-06T14:20:01.530Z",
+          "speaker": "Abhishri",
+          "category": "Design Drafting",
+          "text": "Drafted pantry layout and detail drawings"
+        },
+        {
+          "date": "2026-06-06T14:20:01.530Z",
+          "speaker": "Abhishri",
+          "category": "Design Drafting",
+          "text": "Compiled sanitaryware fixture schedule"
+        },
+        {
+          "date": "2026-06-05T05:11:23.611Z",
+          "speaker": "Mishal",
+          "category": "Design Drafting",
+          "text": "Develop and issue ground floor false ceiling details to client"
+        },
+        {
+          "date": "2026-06-05T05:11:23.611Z",
+          "speaker": "Mishal",
+          "category": "Design Drafting",
+          "text": "Finalize interior laminate material specifications"
+        },
+        {
+          "date": "2026-06-05T05:11:23.611Z",
+          "speaker": "Mishal",
+          "category": "Design Drafting",
+          "text": "Issue interior and glazing shop drawings to vendors"
+        },
+        {
+          "date": "2026-06-05T05:11:23.611Z",
+          "speaker": "Mishal",
+          "category": "Site Supervision",
+          "text": "Provide technical clarification for site civil works"
+        },
+        {
+          "date": "2026-06-05T13:36:05.146Z",
+          "speaker": "Stephena",
+          "category": "Design Drafting",
+          "text": "Evaluate laminate finish options for material specification"
+        },
+        {
+          "date": "2026-06-05T13:36:05.146Z",
+          "speaker": "Stephena",
+          "category": "Design Drafting",
+          "text": "Draft interior elevation drawings for lobby pantry"
+        },
+        {
+          "date": "2026-06-05T13:36:05.146Z",
+          "speaker": "Stephena",
+          "category": "Consultant Coordination",
+          "text": "Coordinate selection of Kohler plumbing fixtures (faucets and sinks) with team member"
+        },
+        {
+          "date": "2026-06-05T13:36:05.146Z",
+          "speaker": "Stephena",
+          "category": "Design Drafting",
+          "text": "Compile Ground floor tile selections into documentation schedule"
+        },
+        {
+          "date": "2026-06-05T05:55:04.810Z",
+          "speaker": "Abhishri",
+          "category": "Design Drafting",
+          "text": "Develop administrative lobby design in SketchUp"
+        },
+        {
+          "date": "2026-06-04T04:07:25.693Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Prepare FF&E mood boards in collaboration with Stephy"
+        },
+        {
+          "date": "2026-06-04T04:07:25.693Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Develop lobby design concepts"
+        },
+        {
+          "date": "2026-06-04T14:04:49.946Z",
+          "speaker": "Mishal",
+          "category": "Consultant Coordination",
+          "text": "Issued handrail fabrication details to vendor"
+        },
+        {
+          "date": "2026-06-03T04:34:05.004Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Drafting architectural plans for clusters"
+        },
+        {
+          "date": "2026-06-03T04:34:05.004Z",
+          "speaker": "Aardhra",
+          "category": "Site Supervision",
+          "text": "Site coordination and integration of changes with Harish"
+        },
+        {
+          "date": "2026-06-03T04:34:05.004Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Updating lobby SketchUp model"
+        },
+        {
+          "date": "2026-06-03T04:34:05.004Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Drafting lobby carpentry construction drawings"
+        },
+        {
+          "date": "2026-06-03T04:11:18.345Z",
+          "speaker": "Abhishri",
+          "category": "Design Drafting",
+          "text": "Drafting of the project lobby area"
+        },
+        {
+          "date": "2026-06-03T14:06:50.392Z",
+          "speaker": "Mishal",
+          "category": "Design Drafting",
+          "text": "Finalized admin lobby layout for the first floor"
+        },
+        {
+          "date": "2026-06-03T05:56:45.724Z",
+          "speaker": "Mishal",
+          "category": "Site Supervision",
+          "text": "Completed site clearance"
+        },
+        {
+          "date": "2026-06-03T05:56:45.724Z",
+          "speaker": "Mishal",
+          "category": "Design Drafting",
+          "text": "Developed ground floor false ceiling design"
+        },
+        {
+          "date": "2026-06-02T04:30:10.398Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Issued drawings regarding the arched areas for cluster units."
+        },
+        {
+          "date": "2026-06-02T04:30:10.398Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Prepared and issued dresser unit detail drawings."
+        },
+        {
+          "date": "2026-06-02T04:30:10.398Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Compiled and transmitted material palette and finish schedule for Raks clusters presentation."
+        },
+        {
+          "date": "2026-06-02T04:01:01.940Z",
+          "speaker": "Abhishri",
+          "category": "Design Drafting",
+          "text": "Drafted false ceiling fin elevations for the ground floor atelier"
+        },
+        {
+          "date": "2026-06-02T09:35:50.345Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Verified material palette for the Raks project"
+        },
+        {
+          "date": "2026-06-02T05:47:10.049Z",
+          "speaker": "Abhishri",
+          "category": "Design Drafting",
+          "text": "Developed exterior glazing details for the ground floor."
+        },
+        {
+          "date": "2026-06-02T05:47:10.049Z",
+          "speaker": "Abhishri",
+          "category": "Design Drafting",
+          "text": "Drafted administrative area toilet floor plans and reflected ceiling plans."
+        },
+        {
+          "date": "2026-06-02T05:34:00.202Z",
+          "speaker": "Stephena",
+          "category": "Design Drafting",
+          "text": "Developing construction details for sensory foam curtains"
+        },
+        {
+          "date": "2026-06-02T05:34:00.202Z",
+          "speaker": "Stephena",
+          "category": "Design Drafting",
+          "text": "Refining cluster classroom opening connections in CAD"
+        },
+        {
+          "date": "2026-06-01T15:35:52.686Z",
+          "speaker": "Mishal",
+          "category": "Design Drafting",
+          "text": "Submit structural drawings for review and pending response from Yogesh"
+        },
+        {
+          "date": "2026-06-01T15:35:52.686Z",
+          "speaker": "Mishal",
+          "category": "Site Supervision",
+          "text": "Issue civil clearance and technical guidance to site team"
+        },
+        {
+          "date": "2026-05-31T05:48:39.316Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Developed new design and CAD documentation for Atelier space"
+        },
+        {
+          "date": "2026-05-31T05:48:39.316Z",
+          "speaker": "Aardhra",
+          "category": "Consultant Coordination",
+          "text": "Issued B3 block revisions to the interior design team"
+        },
+        {
+          "date": "2026-05-30T15:47:04.145Z",
+          "speaker": "Shriya",
+          "category": "Design Drafting",
+          "text": "Drafting of washroom false ceiling details"
+        },
+        {
+          "date": "2026-05-30T14:35:10.207Z",
+          "speaker": "Abhishri",
+          "category": "Design Drafting",
+          "text": "Quantified toilet fixtures and sanitaryware for procurement sheet"
+        },
+        {
+          "date": "2026-05-30T14:35:10.207Z",
+          "speaker": "Abhishri",
+          "category": "Design Drafting",
+          "text": "Drafted ground floor door and window schedules"
+        },
+        {
+          "date": "2026-05-30T04:08:34.859Z",
+          "speaker": "Mishal",
+          "category": "Design Drafting",
+          "text": "Develop ground floor corridor false ceiling layout and detailing"
+        },
+        {
+          "date": "2026-05-30T04:08:34.859Z",
+          "speaker": "Mishal",
+          "category": "Design Drafting",
+          "text": "Coordinate wall details for east and west elevations"
+        },
+        {
+          "date": "2026-05-30T04:01:44.804Z",
+          "speaker": "Abhishri",
+          "category": "Design Drafting",
+          "text": "Refined the atelier house shape connection in SketchUp"
+        },
+        {
+          "date": "2026-05-30T03:58:28.984Z",
+          "speaker": "Harish Parthiban",
+          "category": "Design Drafting",
+          "text": "Revised and updated plumbing layout for restrooms"
+        },
+        {
+          "date": "2026-05-30T03:58:28.984Z",
+          "speaker": "Harish Parthiban",
+          "category": "Design Drafting",
+          "text": "Finalized tile selection for ground floor restrooms"
+        },
+        {
+          "date": "2026-05-30T03:29:10.290Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Completed design for Atelier house addition following consultation with Sai Sir"
+        },
+        {
+          "date": "2026-05-30T03:29:10.290Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Calculated and submitted Gerflor flooring area quantities to Gerry"
+        },
+        {
+          "date": "2026-05-29T13:45:08.832Z",
+          "speaker": "Shriya",
+          "category": "Design Drafting",
+          "text": "Updated SketchUp model for bridge"
+        },
+        {
+          "date": "2026-05-29T13:45:08.832Z",
+          "speaker": "Shriya",
+          "category": "Design Drafting",
+          "text": "Completed staircase detail drawings"
+        },
+        {
+          "date": "2026-05-27T14:46:58.172Z",
+          "speaker": "Abhishri",
+          "category": "Design Drafting",
+          "text": "Development of SketchUp model for lacquered glass lift area"
+        },
+        {
+          "date": "2026-05-27T14:46:58.172Z",
+          "speaker": "Abhishri",
+          "category": "Consultant Coordination",
+          "text": "Preparation of lacquered glass vendor drawings"
+        },
+        {
+          "date": "2026-05-27T14:41:09.501Z",
+          "speaker": "Aardhra",
+          "category": "Client Presentation",
+          "text": "Submitted furniture finish color specifications for final client approval"
+        },
+        {
+          "date": "2026-05-27T14:41:09.501Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Integrated design revisions and technical detailing for Ground Floor B3 block"
+        },
+        {
+          "date": "2026-05-27T14:41:09.501Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Prepared glass assembly drawings and quantity take-offs for procurement quotations"
+        },
+        {
+          "date": "2026-05-27T14:41:09.501Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Conducted technical discussions regarding interior flooring material specifications"
+        },
+        {
+          "date": "2026-05-27T05:51:10.863Z",
+          "speaker": "Aardhra",
+          "category": "Client Presentation",
+          "text": "Presented 3D views for elephant boxing feature"
+        },
+        {
+          "date": "2026-05-27T05:51:10.863Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Revised and issued GFC drawings for the aquarium area"
+        },
+        {
+          "date": "2026-05-26T15:37:24.337Z",
+          "speaker": "Abhishri",
+          "category": "Design Drafting",
+          "text": "Drafting and detailing of the atelier space"
+        },
+        {
+          "date": "2026-05-26T10:09:23.883Z",
+          "speaker": "Mishal",
+          "category": "Design Drafting",
+          "text": "Produced marking drawings for Atelier zone mounds"
+        },
+        {
+          "date": "2026-05-26T10:09:23.883Z",
+          "speaker": "Mishal",
+          "category": "Design Drafting",
+          "text": "Drafted ground floor toilet elevation"
+        },
+        {
+          "date": "2026-05-26T10:09:23.883Z",
+          "speaker": "Mishal",
+          "category": "Design Drafting",
+          "text": "Drafted fire shaft elevation"
+        },
+        {
+          "date": "2026-05-26T10:09:23.883Z",
+          "speaker": "Mishal",
+          "category": "Design Drafting",
+          "text": "Drafted flooring layout"
+        },
+        {
+          "date": "2026-05-25T14:28:04.074Z",
+          "speaker": "Harish Parthiban",
+          "category": "Consultant Coordination",
+          "text": "Coordinated with vendors to schedule and organize site visits"
+        },
+        {
+          "date": "2026-05-25T14:19:36.916Z",
+          "speaker": "Pravin Raj Kumar",
+          "category": "Site Supervision",
+          "text": "Finalized site work logs; scheduled site inspection for tomorrow."
+        },
+        {
+          "date": "2026-05-25T14:01:37.217Z",
+          "speaker": "Aardhra",
+          "category": "Consultant Coordination",
+          "text": "Coordinated with flooring vendors and Alok furniture regarding specifications and site requirements"
+        },
+        {
+          "date": "2026-05-25T14:01:37.217Z",
+          "speaker": "Aardhra",
+          "category": "Design Drafting",
+          "text": "Finalized flooring selection, layout drawings, and area calculations"
+        },
+        {
+          "date": "2026-05-25T13:32:17.863Z",
+          "speaker": "Abhishri",
+          "category": "Design Drafting",
+          "text": "Raks- first floor classroom dwg"
+        },
+        {
+          "date": "2026-05-25T13:32:17.863Z",
+          "speaker": "Abhishri",
+          "category": "Design Drafting",
+          "text": "Update #2: Raks - First floor corridor dwg"
+        },
+        {
+          "date": "2026-05-25T13:32:17.863Z",
+          "speaker": "Abhishri",
+          "category": "Design Drafting",
+          "text": "Raks Pallikkoodam - FF classroom dwg"
+        },
+        {
+          "date": "2026-05-25T13:32:17.863Z",
+          "speaker": "Abhishri",
+          "category": "Design Drafting",
+          "text": "Update #1: Rak’s Pallikkoodam- FF corridor sections dwg"
+        }
+      ]
+    },
+    {
+      "id": "proj-9",
+      "name": "The One School (TOS)",
+      "client": "Narayana",
+      "phase": "",
+      "description": "Architectural drafting and consultant scope.",
+      "timeline": []
+    },
+    {
+      "id": "proj-10",
+      "name": "NGPS",
+      "client": "Mathura",
+      "phase": "",
+      "description": "Architectural drafting and consultant scope.",
+      "timeline": [
+        {
+          "date": "2026-05-27T05:51:10.863Z",
+          "speaker": "Aardhra",
+          "category": "Site Supervision",
+          "text": "Prepared site discrepancy report regarding mound levels"
+        }
+      ]
+    },
+    {
+      "id": "proj-11",
+      "name": "GPS",
+      "client": "Alagarsaami",
+      "phase": "",
+      "description": "Architectural drafting and consultant scope.",
+      "timeline": [
+        {
+          "date": "2026-06-03T06:07:49.101Z",
+          "speaker": "Hariharan",
+          "category": "Design Drafting",
+          "text": "Drafted outdoor stepped seating and kiosk space plans near the new admin block."
+        },
+        {
+          "date": "2026-06-03T06:02:53.943Z",
+          "speaker": "Hariharan",
+          "category": "Client Presentation",
+          "text": "Generated AI-enhanced renders based on SketchUp viewports."
+        },
+        {
+          "date": "2026-06-03T06:02:53.943Z",
+          "speaker": "Hariharan",
+          "category": "Design Drafting",
+          "text": "Updated outdoor stepped seating near the new admin block and integrated kiosk space into the 3D model."
+        }
+      ]
+    },
+    {
+      "id": "proj-12",
+      "name": "TGS",
+      "client": "Anand",
+      "phase": "",
+      "description": "Architectural drafting and consultant scope.",
+      "timeline": []
+    },
+    {
+      "id": "proj-13",
+      "name": "SECE",
+      "client": "Sudha Mohan",
+      "phase": "",
+      "description": "Architectural drafting and consultant scope.",
+      "timeline": [
+        {
+          "date": "2026-06-01T14:34:32.410Z",
+          "speaker": "Rithin Sam",
+          "category": "Design Drafting",
+          "text": "Developed and finalized terrace floor furniture layout for client review."
+        }
+      ]
+    },
+    {
+      "id": "proj-14",
+      "name": "GROW",
+      "client": "Sam Cherian",
+      "phase": "",
+      "description": "Architectural drafting and consultant scope.",
+      "timeline": [
+        {
+          "date": "2026-06-05T04:23:08.106Z",
+          "speaker": "Hariharan",
+          "category": "Design Drafting",
+          "text": "Refine terrace bedroom interior layout including fan and swing placement, and compile interior drawing package."
+        },
+        {
+          "date": "2026-06-01T14:34:32.410Z",
+          "speaker": "Rithin Sam",
+          "category": "Design Drafting",
+          "text": "Compiled auditorium foyer furniture BOQ for client submission."
+        },
+        {
+          "date": "2026-05-29T16:03:56.396Z",
+          "speaker": "Rithin Sam",
+          "category": "Design Drafting",
+          "text": "Develop and finalize furniture layout plans; coordinate visual output with site team"
+        },
+        {
+          "date": "2026-05-27T06:41:15.122Z",
+          "speaker": "Shon Prasad",
+          "category": "Client Presentation",
+          "text": "Consulted with project stakeholders regarding interior design palette and atmosphere for the ground floor cafe"
+        }
+      ]
+    },
+    {
+      "id": "proj-15",
+      "name": "Guntur STEM School",
+      "client": "Fr. Bharat",
+      "phase": "",
+      "description": "Architectural drafting and consultant scope.",
+      "timeline": [
+        {
+          "date": "2026-05-25T14:28:04.074Z",
+          "speaker": "Harish Parthiban",
+          "category": "Consultant Coordination",
+          "text": "Consulted with Palaksha office regarding project introduction and structural framework complications"
+        },
+        {
+          "date": "2026-05-25T14:19:36.916Z",
+          "speaker": "Pravin Raj Kumar",
+          "category": "Consultant Coordination",
+          "text": "Concluded structural review; awaiting approval of structural drawings from Palaksha."
+        }
+      ]
+    },
+    {
+      "id": "proj-16",
+      "name": "GD Goenka",
+      "client": "Sanjay Bansal",
+      "phase": "",
+      "description": "Project in Siliguri",
+      "timeline": []
+    },
+    {
+      "id": "proj-17",
+      "name": "EKYA Nice Road",
+      "client": "EKYA SCHOOLS",
+      "phase": "",
+      "description": "Architectural drafting and consultant scope.",
+      "timeline": [
+        {
+          "date": "2026-05-30T14:57:18.876Z",
+          "speaker": "Shon Prasad",
+          "category": "Design Drafting",
+          "text": "Revised KNIS fire evacuation plan based on client-provided reference imagery."
+        },
+        {
+          "date": "2026-05-25T13:36:37.848Z",
+          "speaker": "Stephena",
+          "category": "Design Drafting",
+          "text": "Configuring page setups for Fire Evacuation Plan and associated circulation layouts"
+        },
+        {
+          "date": "2026-05-25T15:28:15.505Z",
+          "speaker": "Shon Prasad",
+          "category": "Consultant Coordination",
+          "text": "Coordinate fire evacuation plan with consultant and school management"
+        }
+      ]
+    }
+  ],
+  "updates": [
+    {
+      "id": "up-1780775727609",
+      "timestamp": "2026-06-05T19:55:24.020Z",
+      "speaker": "Mishal",
+      "originalText": "[Raks Pallikkoodam]\n• [Client Presentation] Shared door and window schedules with the client.",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780764979214",
+      "timestamp": "2026-06-06T16:56:19.214Z",
+      "speaker": "Aardhra",
+      "originalText": "Aardhra registered as On Leave today.",
+      "category": "Leave",
+      "text": "On Leave",
+      "projects": []
+    },
+    {
+      "id": "up-1780760260830",
+      "timestamp": "2026-06-06T15:37:32.143Z",
+      "speaker": "Shriya",
+      "originalText": "[CMR SOET]\n• [Design Drafting] Drafted floor plans and interior elevations for the girls' washroom, incorporating necessary design corrections.",
+      "projects": [
+        "CMR SOET"
+      ]
+    },
+    {
+      "id": "up-1780756620035",
+      "timestamp": "2026-06-06T14:36:51.238Z",
+      "speaker": "Shon Prasad",
+      "originalText": "[CMR SOET]\n• [Consultant Coordination] Finalized and transmitted HVAC design comments to the external consultant.\n\n[General Studio / Unassigned]\n• [Client Presentation] Drafted and finalized offer letter for a new project acquisition.",
+      "projects": [
+        "CMR SOET"
+      ]
+    },
+    {
+      "id": "up-1780756266758",
+      "timestamp": "2026-06-06T14:31:06.758Z",
+      "speaker": "Rithin Sam",
+      "originalText": "Rithin Sam registered as On Leave today.",
+      "category": "Leave",
+      "text": "On Leave",
+      "projects": []
+    },
+    {
+      "id": "up-1780755613222",
+      "timestamp": "2026-06-06T14:20:01.530Z",
+      "speaker": "Abhishri",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Compiled sanitaryware fixture schedule\n• [Design Drafting] Drafted pantry layout and detail drawings",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780729477665",
+      "timestamp": "2026-06-06T07:04:37.665Z",
+      "speaker": "Stephena",
+      "originalText": "Stephena registered as On Leave today.",
+      "category": "Leave",
+      "text": "On Leave",
+      "projects": []
+    },
+    {
+      "id": "up-1780722687251",
+      "timestamp": "2026-06-05T05:11:23.611Z",
+      "speaker": "Mishal",
+      "originalText": "[Raks Pallikkoodam]\n   [Site Supervision] Provide technical clarification for site civil works\n• [Design Drafting] Issue interior and glazing shop drawings to vendors\n• [Design Drafting] Finalize interior laminate material specifications\n• [Design Drafting] Develop and issue ground floor false ceiling details to client",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780719829021",
+      "timestamp": "2026-06-05T04:23:08.106Z",
+      "speaker": "Hariharan",
+      "originalText": "[GROW]\n• [Design Drafting] Refine terrace bedroom interior layout including fan and swing placement, and compile interior drawing package.\n\n[CMR Academic Block Phase 02]\n• [Site Supervision] Issue planter box demolition detail and area statement to site; coordinate second-floor formwork layout revisions with structural team.\n• [Design Drafting] Develop architectural sections.",
+      "projects": [
+        "GROW",
+        "CMR Academic Block Phase 02"
+      ]
+    },
+    {
+      "id": "up-1780676719219",
+      "timestamp": "2026-06-05T16:25:06.663Z",
+      "speaker": "Shriya",
+      "originalText": "[CMR Trust Office]\n• [Design Drafting] Introduced project scope and revised floor plans based on updated requirements.\n\n[CMR SOET]\n• [Design Drafting] Developed interior elevations for girls' washrooms.",
+      "projects": [
+        "CMR Trust Office",
+        "CMR SOET"
+      ]
+    },
+    {
+      "id": "up-1780669514857",
+      "timestamp": "2026-06-05T14:24:52.228Z",
+      "speaker": "Aardhra",
+      "originalText": "[CMR Academic Block Phase 01 Interior]\n• [Design Drafting] Selected PET panels and paint specifications for HOD and Dean's rooms\n\n[Raks Pallikkoodam]\n• [Consultant Coordination] Coordinated with glass block and tile vendors\n• [Site Supervision] Conducted site coordination with Harish",
+      "projects": [
+        "CMR Academic Block Phase 01 Interior",
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780666570479",
+      "timestamp": "2026-06-05T13:36:05.146Z",
+      "speaker": "Stephena",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Compile Ground floor tile selections into documentation schedule\n• [Consultant Coordination] Coordinate selection of Kohler plumbing fixtures (faucets and sinks) with team member\n• [Design Drafting] Draft interior elevation drawings for lobby pantry\n• [Design Drafting] Evaluate laminate finish options for material specification",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780642575436",
+      "timestamp": "2026-06-05T05:55:04.810Z",
+      "speaker": "Abhishri",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Develop administrative lobby design in SketchUp",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780632449942",
+      "timestamp": "2026-06-04T04:07:25.693Z",
+      "speaker": "Aardhra",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Develop lobby design concepts\n   [Design Drafting] Prepare FF&E mood boards in collaboration with Stephy\n• [Consultant Coordination] Coordinate with vendors Plaunshe, Gerflor, and glass block suppliers\n• [Site Supervision] Coordinate site activities with Harish",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780585028503",
+      "timestamp": "2026-06-04T14:56:46.834Z",
+      "speaker": "Rithin Sam",
+      "originalText": "[CMR Sports Block]\n• [Client Presentation] Refined design iteration for the sports block and developed presentation materials and architectural renders for PED and client approval.",
+      "projects": [
+        "CMR Sports Block"
+      ]
+    },
+    {
+      "id": "up-1780584294837",
+      "timestamp": "2026-06-04T14:44:30.841Z",
+      "speaker": "Shriya",
+      "originalText": "[CMR SOET]\n• [Design Drafting] Modelled PHE for girls' washroom in SketchUp\n• [Design Drafting] Drafted interior elevations for ground floor girls' washroom",
+      "projects": [
+        "CMR SOET"
+      ]
+    },
+    {
+      "id": "up-1780581898266",
+      "timestamp": "2026-06-04T14:04:49.946Z",
+      "speaker": "Mishal",
+      "originalText": "[General Studio / Unassigned]\n• [Design Drafting] Drafted spatial layouts for existing site conditions\n\n[Raks Pallikkoodam]\n• [Consultant Coordination] Issued handrail fabrication details to vendor",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780580420071",
+      "timestamp": "2026-06-04T13:40:14.196Z",
+      "speaker": "Stephena",
+      "originalText": "[General Studio / Unassigned]\n• [Design Drafting] Developed material board for first floor (classrooms, staff room, corridor, and Arena)",
+      "projects": []
+    },
+    {
+      "id": "up-1780556257398",
+      "timestamp": "2026-06-04T06:57:26.332Z",
+      "speaker": "Shon Prasad",
+      "originalText": "[General Studio / Unassigned]\n• [Site Supervision] Site visit to EKYA NAVA regarding gate failure inspection\n\n[CMR SOET]\n• [Design Drafting] Develop 3D architectural model for SOET\n• [Consultant Coordination] Review and incorporate structural comments for SOET",
+      "projects": [
+        "CMR SOET"
+      ]
+    },
+    {
+      "id": "up-1780548512005",
+      "timestamp": "2026-06-03T04:48:08.691Z",
+      "speaker": "Hanan",
+      "originalText": "[CMR SOET]\n• [Consultant Coordination] Submitted electrical quotations to Manjunath for comparative analysis.\n• [Consultant Coordination] Issued electrical annexure to the vendor.\n• [Design Drafting] Performed section corrections for project drawings.\n• [Design Drafting] Finalized and dispatched hardcopy documentation.\n• [Design Drafting] Coordinated girls' restroom modelling and verified drawings with Shriya.",
+      "projects": [
+        "CMR SOET"
+      ]
+    },
+    {
+      "id": "up-1780548262289",
+      "timestamp": "2026-06-03T04:44:19.130Z",
+      "speaker": "Stephena",
+      "originalText": "[General Studio / Unassigned]\n• [Design Drafting] Drafted interior drawings for lobby, including reception desk, pillar desk, circular table, and kid's play furniture; produced associated sections, elevations, and plans.",
+      "projects": []
+    },
+    {
+      "id": "up-1780547655464",
+      "timestamp": "2026-06-03T04:34:05.004Z",
+      "speaker": "Aardhra",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Drafting lobby carpentry construction drawings\n• [Design Drafting] Updating lobby SketchUp model\n• [Site Supervision] Site coordination and integration of changes with Harish\n• [Design Drafting] Drafting architectural plans for clusters",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780547255478",
+      "timestamp": "2026-06-03T04:27:18.817Z",
+      "speaker": "Hariharan",
+      "originalText": "[CMR Academic Block Phase 02]\n• [Design Drafting] Updated SketchUp model (corridors, beams, and slabs) and completed section drawing in CAD.",
+      "projects": [
+        "CMR Academic Block Phase 02"
+      ]
+    },
+    {
+      "id": "up-1780546288104",
+      "timestamp": "2026-06-03T04:11:18.345Z",
+      "speaker": "Abhishri",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Drafting of the project lobby area",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780500751294",
+      "timestamp": "2026-06-03T15:32:27.629Z",
+      "speaker": "Shriya",
+      "originalText": "[CMR SOET]\n• [Design Drafting] Modelled plumbing layout for girls' washroom\n• [Design Drafting] Implemented revisions to washroom floor plan and structural layout",
+      "projects": [
+        "CMR SOET"
+      ]
+    },
+    {
+      "id": "up-1780495630886",
+      "timestamp": "2026-06-03T14:06:50.392Z",
+      "speaker": "Mishal",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Developed false ceiling design options for the ground floor\n• [Design Drafting] Finalized admin lobby layout for the first floor",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780466900661",
+      "timestamp": "2026-06-03T06:07:49.101Z",
+      "speaker": "Hariharan",
+      "originalText": "[GPS]\n• [Design Drafting] Drafted outdoor stepped seating and kiosk space plans near the new admin block.\n• [Client Presentation] Generated isometric views, plans, and renders for project presentation.\n\n[CMR Academic Block Phase 02]\n• [Site Supervision] Issued column layout and center line grid layout drawings to the site team.",
+      "projects": [
+        "GPS",
+        "CMR Academic Block Phase 02"
+      ]
+    },
+    {
+      "id": "up-1780466607368",
+      "timestamp": "2026-06-03T06:02:53.943Z",
+      "speaker": "Hariharan",
+      "originalText": "[GPS]\n• [Design Drafting] Updated outdoor stepped seating near the new admin block and integrated kiosk space into the 3D model.\n• [Client Presentation] Generated AI-enhanced renders based on SketchUp viewports.",
+      "projects": [
+        "GPS"
+      ]
+    },
+    {
+      "id": "up-1780466211483",
+      "timestamp": "2026-06-03T05:56:45.724Z",
+      "speaker": "Mishal",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Developed ground floor false ceiling design\n• [Site Supervision] Completed site clearance",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780463110690",
+      "timestamp": "2026-06-02T05:04:37.129Z",
+      "speaker": "Hanan",
+      "originalText": "[CMR SOET]\n• [Design Drafting] Released ground floor electrical GFC lighting layout and dimension drawings\n• [Site Supervision] Issued PHE reference drawings to site\n• [Design Drafting] Processed and reviewed electrical drawing comments\n• [Design Drafting] Organized and prepared hardcopy print files",
+      "projects": [
+        "CMR SOET"
+      ]
+    },
+    {
+      "id": "up-1780461033861",
+      "timestamp": "2026-06-02T04:30:10.398Z",
+      "speaker": "Aardhra",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Compiled and transmitted material palette and finish schedule for Raks clusters presentation.\n• [Design Drafting] Prepared and issued dresser unit detail drawings.\n• [Design Drafting] Issued drawings regarding the arched areas for cluster units.\n• [Consultant Coordination] Coordinated Atelier house drawings with Abhisree.",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780459274145",
+      "timestamp": "2026-06-02T04:01:01.940Z",
+      "speaker": "Abhishri",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Drafted false ceiling fin elevations for the ground floor atelier\n• [Design Drafting] Developed design for the ground floor atelier house play area",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780411537202",
+      "timestamp": "2026-06-02T14:45:24.124Z",
+      "speaker": "Shon Prasad",
+      "originalText": "[CMR SOET]\n• [Design Drafting] Performed structural review and incorporated comments for the second floor\n• [Consultant Coordination] Coordinated and issued final electrical drawings",
+      "projects": [
+        "CMR SOET"
+      ]
+    },
+    {
+      "id": "up-1780410993341",
+      "timestamp": "2026-06-02T14:35:48.342Z",
+      "speaker": "Rithin Sam",
+      "originalText": "[CMR Sports Block]\n• [Design Drafting] Update sections and plans for structural consultant coordination\n• [Client Presentation] Submit requirement comparison between PED and Ingenio design proposal for internal review",
+      "projects": [
+        "CMR Sports Block"
+      ]
+    },
+    {
+      "id": "up-1780410982871",
+      "timestamp": "2026-06-02T14:36:13.747Z",
+      "speaker": "Shriya",
+      "originalText": "[CMR SOET]\n• [Design Drafting] Completed 3D modeling and detailed finishing for the girls' washroom in SketchUp",
+      "projects": [
+        "CMR SOET"
+      ]
+    },
+    {
+      "id": "up-1780410968376",
+      "timestamp": "2026-06-02T14:35:39.592Z",
+      "speaker": "Dhanavarsha",
+      "originalText": "[EKYA SPARC]\n• [Design Drafting] Developed 3D models and shop drawings for the staircase assembly\n• [Design Drafting] Reviewed grade beam layout and identified design revisions",
+      "projects": [
+        "EKYA SPARC"
+      ]
+    },
+    {
+      "id": "up-1780405482454",
+      "timestamp": "2026-06-02T13:04:38.935Z",
+      "speaker": "Stephena",
+      "originalText": "[General Studio / Unassigned]\n• [Client Presentation] Compiling presentation materials for the Ground Floor",
+      "projects": []
+    },
+    {
+      "id": "up-1780392956749",
+      "timestamp": "2026-06-02T09:35:50.345Z",
+      "speaker": "Aardhra",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Developed drawings and SketchUp models for the Atelier House addition\n• [Consultant Coordination] Coordinated with vendors regarding fluted panel specifications\n• [Design Drafting] Calculated total area requirements for fluted panel installation\n• [Design Drafting] Verified material palette for the Raks project",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780379262178",
+      "timestamp": "2026-06-02T05:47:42.178Z",
+      "speaker": "Hanan",
+      "originalText": "Hanan registered as On Leave today.",
+      "category": "Leave",
+      "text": "On Leave",
+      "projects": []
+    },
+    {
+      "id": "up-1780379243089",
+      "timestamp": "2026-06-02T05:47:10.049Z",
+      "speaker": "Abhishri",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Drafted administrative area toilet floor plans and reflected ceiling plans.\n• [Design Drafting] Developed exterior glazing details for the ground floor.",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780378443479",
+      "timestamp": "2026-06-02T05:34:00.202Z",
+      "speaker": "Stephena",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Refining cluster classroom opening connections in CAD\n• [Design Drafting] Developing construction details for sensory foam curtains",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780340085112",
+      "timestamp": "2026-05-31T18:54:36.685Z",
+      "speaker": "Shon Prasad",
+      "originalText": "[General Studio / Unassigned]\n• [Client Presentation] Finalized and processed offer letter and Statement of Agreement (SOA) for a new project\n\n[EKYA SPARC]\n• [Consultant Coordination] Coordinate structural drawing requirements and updates",
+      "projects": [
+        "EKYA SPARC"
+      ]
+    },
+    {
+      "id": "up-1780328367280",
+      "timestamp": "2026-06-01T15:39:12.589Z",
+      "speaker": "Shriya",
+      "originalText": "[CMR SOET]\n• [Design Drafting] Modelled structure and interior elements for the girls' washroom core in SketchUp.",
+      "projects": [
+        "CMR SOET"
+      ]
+    },
+    {
+      "id": "up-1780328197340",
+      "timestamp": "2026-06-01T15:35:52.686Z",
+      "speaker": "Mishal",
+      "originalText": "[Raks Pallikkoodam]\n• [Consultant Coordination] Coordinate service integration requirements with consultant Pravin\n• [Site Supervision] Issue civil clearance and technical guidance to site team\n• [Design Drafting] Submit structural drawings for review and pending response from Yogesh",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780326032647",
+      "timestamp": "2026-06-01T14:58:03.512Z",
+      "speaker": "Dhanavarsha",
+      "originalText": "[EKYA SPARC]\n• [Consultant Coordination] Reviewed and provided feedback on HVAC layout\n• [Consultant Coordination] Issued comments for electrical lower ground floor layout and PHE earthing details to electrical consultant\n• [Design Drafting] Drafting and preparing section GFCs for site issuance",
+      "projects": [
+        "EKYA SPARC"
+      ]
+    },
+    {
+      "id": "up-1780324549366",
+      "timestamp": "2026-06-01T14:34:32.410Z",
+      "speaker": "Rithin Sam",
+      "originalText": "[SECE]\n• [Design Drafting] Developed and finalized terrace floor furniture layout for client review.\n\n[GROW]\n• [Design Drafting] Compiled auditorium foyer furniture BOQ for client submission.\n\n[CMR Sports Block]\n• [Design Drafting] Performed comparative analysis between PED requirements and current design documentation.",
+      "projects": [
+        "SECE",
+        "GROW",
+        "CMR Sports Block"
+      ]
+    },
+    {
+      "id": "up-1780206528536",
+      "timestamp": "2026-05-31T05:48:39.316Z",
+      "speaker": "Aardhra",
+      "originalText": "[CMR Academic Block Phase 01 Interior]\n• [Consultant Coordination] Shared lighting fixture specifications for Dean and HOD offices via email\n\n[Raks Pallikkoodam]\n• [Design Drafting] Completed dresser unit technical drawings and SketchUp model updates\n• [Consultant Coordination] Issued B3 block revisions to the interior design team\n   [Design Drafting] Developed new design and CAD documentation for Atelier space",
+      "projects": [
+        "CMR Academic Block Phase 01 Interior",
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780205626282",
+      "timestamp": "2026-05-31T05:33:40.922Z",
+      "speaker": "Stephena",
+      "originalText": "[General Studio / Unassigned]\n• [Design Drafting] Refining floor plan openings between cluster classrooms in CAD",
+      "projects": []
+    },
+    {
+      "id": "up-1780159837272",
+      "timestamp": "2026-05-30T16:50:27.531Z",
+      "speaker": "Mishal",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Drafted ground floor corridor false ceiling details (GFC).\n• [Design Drafting] Drafted ground floor toilet false ceiling sectional details.",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780156043317",
+      "timestamp": "2026-05-30T15:47:04.145Z",
+      "speaker": "Shriya",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Drafting of washroom false ceiling details",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780153086056",
+      "timestamp": "2026-05-30T14:57:18.876Z",
+      "speaker": "Shon Prasad",
+      "originalText": "[EKYA Nice Road]\n• [Design Drafting] Revised KNIS fire evacuation plan based on client-provided reference imagery.\n\n[EKYA SPARC]\n• [Consultant Coordination] Coordinated architectural plan discrepancies with site team regarding electrical drawing specifications.",
+      "projects": [
+        "EKYA Nice Road",
+        "EKYA SPARC"
+      ]
+    },
+    {
+      "id": "up-1780151729554",
+      "timestamp": "2026-05-30T14:35:10.207Z",
+      "speaker": "Abhishri",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Drafted ground floor door and window schedules\n• [Design Drafting] Quantified toilet fixtures and sanitaryware for procurement sheet",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780151490152",
+      "timestamp": "2026-05-30T14:31:30.152Z",
+      "speaker": "Dhanavarsha",
+      "originalText": "Dhanavarsha registered as On Leave today.",
+      "category": "Leave",
+      "text": "On Leave",
+      "projects": []
+    },
+    {
+      "id": "up-1780119509121",
+      "timestamp": "2026-05-30T05:37:57.865Z",
+      "speaker": "Hariharan",
+      "originalText": "[CMR Academic Block Phase 02]\n• [Design Drafting] Annotated dimensions for architectural drawings and finalized one building section.",
+      "projects": [
+        "CMR Academic Block Phase 02"
+      ]
+    },
+    {
+      "id": "up-1780119467427",
+      "timestamp": "2026-05-30T05:37:47.427Z",
+      "speaker": "Hanan",
+      "originalText": "Hanan registered as On Leave today.",
+      "category": "Leave",
+      "text": "On Leave",
+      "projects": []
+    },
+    {
+      "id": "up-1780119330332",
+      "timestamp": "2026-05-30T05:35:30.332Z",
+      "speaker": "Dhanavarsha",
+      "originalText": "Dhanavarsha registered as On Leave today.",
+      "category": "Leave",
+      "text": "On Leave",
+      "projects": []
+    },
+    {
+      "id": "up-1780114147380",
+      "timestamp": "2026-05-30T04:08:34.859Z",
+      "speaker": "Mishal",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Coordinate wall details for east and west elevations\n• [Design Drafting] Develop ground floor corridor false ceiling layout and detailing\n• [Consultant Coordination] Coordinate technical requirements with external vendors",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780113710971",
+      "timestamp": "2026-05-30T04:01:44.804Z",
+      "speaker": "Abhishri",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Refined the atelier house shape connection in SketchUp",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780113532558",
+      "timestamp": "2026-05-30T03:58:28.984Z",
+      "speaker": "Harish Parthiban",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Finalized tile selection for ground floor restrooms\n• [Design Drafting] Revised and updated plumbing layout for restrooms",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1780111781183",
+      "timestamp": "2026-05-30T03:29:10.290Z",
+      "speaker": "Aardhra",
+      "originalText": "[Raks Pallikkoodam]\n• [Consultant Coordination] Coordinated 3-seater block drawings with Stephy\n• [Design Drafting] Coordinated and finalized dresser unit SketchUp connections with Stephy\n• [Design Drafting] Calculated and submitted Gerflor flooring area quantities to Gerry\n• [Design Drafting] Submitted glass block quantities to Venu\n• [Design Drafting] Completed design for Atelier house addition following consultation with Sai Sir\n\n[CMR Academic Block Phase 01 Interior]\n• [Design Drafting] Selected and shared lighting fixture specifications for Dean and HOD spaces",
+      "projects": [
+        "Raks Pallikkoodam",
+        "CMR Academic Block Phase 01 Interior"
+      ]
+    },
+    {
+      "id": "up-1780070664355",
+      "timestamp": "2026-05-29T16:03:56.396Z",
+      "speaker": "Rithin Sam",
+      "originalText": "[GROW]\n• [Design Drafting] Develop and finalize furniture layout plans; coordinate visual output with site team\n\n[CMR Sports Block]\n• [Design Drafting] Draft interior detailing for the VIP lounge area",
+      "projects": [
+        "GROW",
+        "CMR Sports Block"
+      ]
+    },
+    {
+      "id": "up-1780066335025",
+      "timestamp": "2026-05-29T14:52:01.949Z",
+      "speaker": "Shon Prasad",
+      "originalText": "[CMR Academic Block Phase 01 Interior]\n• [Client Presentation] Shared Dean's room Bill of Quantities (BOQ) with client\n\n[EKYA SPARC]\n• [Design Drafting] Issued Good for Construction (GFC) electrical drawings for Lower Ground Floor to site team\n\n[CMR SOET]\n• [Consultant Coordination] Coordinated external chilled water pipe routing with HVAC consultant\n\n[CMR Sports Block]\n• [Client Presentation] Shared presentation with client for approval",
+      "projects": [
+        "CMR Academic Block Phase 01 Interior",
+        "EKYA SPARC",
+        "CMR SOET",
+        "CMR Sports Block"
+      ]
+    },
+    {
+      "id": "up-1780062332143",
+      "timestamp": "2026-05-29T13:45:08.832Z",
+      "speaker": "Shriya",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Completed staircase detail drawings\n• [Design Drafting] Updated SketchUp model for bridge\n\n[CMR SOET]\n• [Design Drafting] Developed Girls toilet model",
+      "projects": [
+        "Raks Pallikkoodam",
+        "CMR SOET"
+      ]
+    },
+    {
+      "id": "up-1780060734739",
+      "timestamp": "2026-05-29T13:18:36.611Z",
+      "speaker": "Stephena",
+      "originalText": "[General Studio / Unassigned]\n• [Design Drafting] Revise CAD drawings for arch seater in language room and mirror installation in science room\n• [Design Drafting] Update construction details for language and science room revisions\n    [Design Drafting] Modify inter-classroom opening on the ground floor\n• [Design Drafting] Modify opening details connecting cluster classrooms on the ground floor\n• [Design Drafting] Generate architectural visualizations using AI tools",
+      "projects": []
+    },
+    {
+      "id": "up-1779905043630",
+      "timestamp": "2026-05-27T18:04:03.630Z",
+      "speaker": "Dhanavarsha",
+      "originalText": "Dhanavarsha registered as On Leave today.",
+      "category": "Leave",
+      "text": "On Leave",
+      "projects": []
+    },
+    {
+      "id": "up-1779894365039",
+      "timestamp": "2026-05-27T06:30:00.000Z",
+      "speaker": "Dhanavarsha",
+      "originalText": "Dhanavarsha registered as On Leave today (Manual entry).",
+      "category": "Leave",
+      "text": "On Leave",
+      "projects": []
+    },
+    {
+      "id": "up-1779893635825",
+      "timestamp": "2026-05-27T14:53:55.825Z",
+      "speaker": "Mishal",
+      "originalText": "Mishal registered as On Leave today.",
+      "category": "Leave",
+      "text": "On Leave",
+      "projects": []
+    },
+    {
+      "id": "up-1779893471533",
+      "timestamp": "2026-05-27T14:51:11.533Z",
+      "speaker": "Meural",
+      "originalText": "Meural registered as On Leave today.",
+      "category": "Leave",
+      "text": "On Leave",
+      "projects": []
+    },
+    {
+      "id": "up-1779893235127",
+      "timestamp": "2026-05-27T14:46:58.172Z",
+      "speaker": "Abhishri",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Drafting and refinement of Arena A layout\n• [Consultant Coordination] Preparation of lacquered glass vendor drawings\n• [Design Drafting] Development of SketchUp model for lacquered glass lift area",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1779892963768",
+      "timestamp": "2026-05-27T14:42:21.413Z",
+      "speaker": "Shon Prasad",
+      "originalText": "[CMR SOET]\n• [Design Drafting] Drafted and shared the ground floor sunken area lighting plan with the consultant\n\n[CMR Academic Block Phase 01 Interior]\n• [Client Presentation] Verified and finalized the Dean's room lighting BOQ with the client",
+      "projects": [
+        "CMR SOET",
+        "CMR Academic Block Phase 01 Interior"
+      ]
+    },
+    {
+      "id": "up-1779892896104",
+      "timestamp": "2026-05-27T14:41:09.501Z",
+      "speaker": "Aardhra",
+      "originalText": "[CMR Academic Block Phase 01 Interior]\n• [Design Drafting] Finalized interior finish color samples for Dean and HOD rooms, specifically for MDF and backing wall elements\n• [Design Drafting] Issued 3D visualizations for corridor-to-cabinet false ceiling detailing to the Index team\n• [Consultant Coordination] Cross-verified electrical Bill of Quantities (BOQ) with consultant and internal project data\n\n[Raks Pallikkoodam]\n• [Design Drafting] Conducted technical discussions regarding interior flooring material specifications\n• [Design Drafting] Prepared glass assembly drawings and quantity take-offs for procurement quotations\n• [Design Drafting] Integrated design revisions and technical detailing for Ground Floor B3 block\n• [Client Presentation] Submitted furniture finish color specifications for final client approval",
+      "projects": [
+        "CMR Academic Block Phase 01 Interior",
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1779867429763",
+      "timestamp": "2026-05-27T07:36:42.452Z",
+      "speaker": "Dhanavarsha",
+      "originalText": "[CMR Sports Block]\n• [Client Presentation] Completed the architectural plan presentation",
+      "projects": [
+        "CMR Sports Block"
+      ]
+    },
+    {
+      "id": "up-1779864553501",
+      "timestamp": "2026-05-27T06:48:28.455Z",
+      "speaker": "Hariharan",
+      "originalText": "[CMR Academic Block Phase 02]\n• [Design Drafting] Dispatched hardcopies of architectural and structural drawings\n• [Design Drafting] Annotating dimensions on architectural plans\n\n[CMR Sports Block]\n• [Design Drafting] Developing rendered section and floor plan using Photoshop",
+      "projects": [
+        "CMR Academic Block Phase 02",
+        "CMR Sports Block"
+      ]
+    },
+    {
+      "id": "up-1779864538568",
+      "timestamp": "2026-05-27T06:47:29.941Z",
+      "speaker": "Rithin Sam",
+      "originalText": "[CMR Sports Block]\n• [Design Drafting] Completed interior architectural renders\n• [Client Presentation] Prepared presentation deck integrated with interior renders\n• [Design Drafting] Developing VIP lounge design and exterior render visuals",
+      "projects": [
+        "CMR Sports Block"
+      ]
+    },
+    {
+      "id": "up-1779864144847",
+      "timestamp": "2026-05-27T06:41:15.122Z",
+      "speaker": "Shon Prasad",
+      "originalText": "[CMR SOET]\n• [Site Supervision] Performed site visit to address and resolve construction queries\n\n[CMR Academic Block Phase 02]\n• [Site Supervision] Conducted site inspection of column demolition process; completion expected in 48 hours\n\n[CMR Academic Block Phase 01 Interior]\n• [Consultant Coordination] Coordinated HVAC drain routing, false ceiling details for Dean's office, and light fixture specifications\n\n[CMR Sports Block]\n• [Client Presentation] Conducted programming meeting with the Sports Director to define facility requirements\n\n[GROW]\n• [Client Presentation] Consulted with project stakeholders regarding interior design palette and atmosphere for the ground floor cafe\n\n[General Studio / Unassigned]\n• [Client Presentation] Prepared and submitted Statement of Account (SOA) for a new project to the client",
+      "projects": [
+        "CMR SOET",
+        "CMR Academic Block Phase 02",
+        "CMR Academic Block Phase 01 Interior",
+        "CMR Sports Block",
+        "GROW"
+      ]
+    },
+    {
+      "id": "up-1779861110511",
+      "timestamp": "2026-05-27T05:51:10.863Z",
+      "speaker": "Aardhra",
+      "originalText": "[CMR Academic Block 01 Interior]\n• [Design Drafting] Finalized and submitted interior finishes for TRC space\n• [Consultant Coordination] Distributed updated electrical IFC drawings for Dean and HoD office spaces\n\n[Raks Pallikkoodam]\n• [Consultant Coordination] Finalized flooring specifications and submitted for vendor quotation\n• [Design Drafting] Revised and issued GFC drawings for the aquarium area\n• [Client Presentation] Presented 3D views for elephant boxing feature\n• [Consultant Coordination] Coordinated with glass block and handrail vendors\n\n[NGPS]\n• [Site Supervision] Prepared site discrepancy report regarding mound levels",
+      "projects": [
+        "CMR Academic Block 01 Interior",
+        "Raks Pallikkoodam",
+        "NGPS"
+      ]
+    },
+    {
+      "id": "up-1779860489214",
+      "timestamp": "2026-05-27T05:39:29.712Z",
+      "speaker": "Hanan",
+      "originalText": "[CMR SOET]\n• [Site Supervision] Conducted site visit to monitor progress\n• [Design Drafting] Reviewed section drawings for technical accuracy\n• [Design Drafting] Issued podium planter box construction details to site team",
+      "projects": [
+        "CMR SOET"
+      ]
+    },
+    {
+      "id": "up-1779809864652",
+      "timestamp": "2026-05-26T15:37:24.337Z",
+      "speaker": "Abhishri",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Drafting and detailing of the atelier space\n\n[CMR Sports Block]\n• [Client Presentation] Post-processing sections in Photoshop for client presentation",
+      "projects": [
+        "Raks Pallikkoodam",
+        "CMR Sports Block"
+      ]
+    },
+    {
+      "id": "up-1779801767967",
+      "timestamp": "2026-05-26T13:22:43.732Z",
+      "speaker": "Stephena",
+      "originalText": "[General Studio / Unassigned]\n• [Design Drafting] Revised cushion seater design in the cluster common room; updated corresponding CAD elevations and sections.",
+      "projects": []
+    },
+    {
+      "id": "up-1779790186563",
+      "timestamp": "2026-05-26T10:09:23.883Z",
+      "speaker": "Mishal",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Drafted flooring layout\n• [Design Drafting] Drafted fire shaft elevation\n• [Design Drafting] Drafted ground floor toilet elevation\n• [Design Drafting] Produced marking drawings for Atelier zone mounds",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1779734165339",
+      "timestamp": "2026-05-25T18:35:21.690Z",
+      "speaker": "Hanan",
+      "originalText": "[CMR SOET]\n• [Consultant Coordination] Compiled contractor list for procurement\n   [Design Drafting] Issued revised slab reinforcement and beam schedule drawings to site\n• [Design Drafting] Corrected and issued staircase mid-landing drawings to site\n• [Design Drafting] Corrected and issued door and window schedule drawings to site\n• [Client Presentation] Submitted electrical contractor list to client\n• [Design Drafting] Revised facade glazing drawings\n• [Design Drafting] Updated project drawing schedule",
+      "projects": [
+        "CMR SOET"
+      ]
+    },
+    {
+      "id": "up-1779727675628",
+      "timestamp": "2026-05-25T16:47:48.378Z",
+      "speaker": "Meural",
+      "originalText": "[CMR SOET]\n• [Design Drafting] Prepared door and window schedules and generated GFC drawings for each",
+      "projects": [
+        "CMR SOET"
+      ]
+    },
+    {
+      "id": "up-1779722904395",
+      "timestamp": "2026-05-25T15:28:15.505Z",
+      "speaker": "Shon Prasad",
+      "originalText": "[EKYA Nice Road]\n• [Consultant Coordination] Coordinate fire evacuation plan with consultant and school management",
+      "projects": [
+        "EKYA Nice Road"
+      ]
+    },
+    {
+      "id": "up-1779722740344",
+      "timestamp": "2026-05-25T15:25:05.819Z",
+      "speaker": "Shon Prasad",
+      "originalText": "[CMR Academic Block Phase 01 Interior]\n• [Design Drafting] Finalized interior finish selections including fabric, carpet, and paint specifications.\n\n[CMR Academic Block Phase 02]\n• [Consultant Coordination] Finalized structural layout and issued review comments for the first floor.\n\n[CMR SOET]\n    [Consultant Coordination] Ongoing review and verification of HVAC systems.\n\n[EKYA SPARC]\n• [Consultant Coordination] Reviewed and submitted Electrical BOQ to client; reviewed PHE BOQ and initiated coordination with consultant.",
+      "projects": [
+        "CMR Academic Block Phase 01 Interior",
+        "CMR Academic Block Phase 02",
+        "CMR SOET",
+        "EKYA SPARC"
+      ]
+    },
+    {
+      "id": "up-1779719290270",
+      "timestamp": "2026-05-25T14:28:04.074Z",
+      "speaker": "Harish Parthiban",
+      "originalText": "[Guntur STEM School]\n• [Consultant Coordination] Consulted with Palaksha office regarding project introduction and structural framework complications\n\n[Raks Pallikkoodam]\n    [Consultant Coordination] Coordinated with vendors to schedule and organize site visits",
+      "projects": [
+        "Guntur STEM School",
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1779718830036",
+      "timestamp": "2026-05-25T14:19:36.916Z",
+      "speaker": "Pravin Raj Kumar",
+      "originalText": "[Guntur STEM School]\n• [Consultant Coordination] Concluded structural review; awaiting approval of structural drawings from Palaksha.\n\n[CMR Sports Block]\n• [Design Drafting] Advancing cross-section documentation; completion scheduled for next business day.\n\n[CMR Trust Office]\n• [Design Drafting] Completed quality assurance and site-issued drawing release.\n\n[Raks Pallikkoodam]\n• [Site Supervision] Finalized site work logs; scheduled site inspection for tomorrow.",
+      "projects": [
+        "Guntur STEM School",
+        "CMR Sports Block",
+        "CMR Trust Office",
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1779717734782",
+      "timestamp": "2026-05-25T14:01:37.217Z",
+      "speaker": "Aardhra",
+      "originalText": "[CMR Academic Block Phase 01 Interior]\n• [Client Presentation] Finalized samples and finishes presentation; selected carpet, paint, and fabric options\n• [Design Drafting] Revised reflected ceiling plan (RCP) drawings for Dean and HOD spaces and issued to client and vendors\n\n[Raks Pallikkoodam]\n• [Design Drafting] Finalized flooring selection, layout drawings, and area calculations\n• [Consultant Coordination] Coordinated with flooring vendors and Alok furniture regarding specifications and site requirements\n\n[General Studio / Unassigned]\n• [Design Drafting] Coordinated furniture, fixture, and equipment (FF&E) drawings with Abhisree",
+      "projects": [
+        "CMR Academic Block Phase 01 Interior",
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1779716211269",
+      "timestamp": "2026-05-25T13:36:37.848Z",
+      "speaker": "Stephena",
+      "originalText": "[EKYA Nice Road]\n• [Design Drafting] Refining plan openings and adding annotation comments\n• [Design Drafting] Configuring page setups for Fire Evacuation Plan and associated circulation layouts",
+      "projects": [
+        "EKYA Nice Road"
+      ]
+    },
+    {
+      "id": "up-1779715978539",
+      "timestamp": "2026-05-25T13:32:17.863Z",
+      "speaker": "Abhishri",
+      "originalText": "[Raks Pallikkoodam]\n• [Design Drafting] Update #1: Rak’s Pallikkoodam- FF corridor sections dwg\n• [Design Drafting] Raks Pallikkoodam - FF classroom dwg\n• [Design Drafting] Update #2: Raks - First floor corridor dwg\n• [Design Drafting] Raks- first floor classroom dwg\n\n[General Studio / Unassigned]\n   [Design Drafting] Rak’s pallikkoodam - list of details to ask soumya ma’am",
+      "projects": [
+        "Raks Pallikkoodam"
+      ]
+    },
+    {
+      "id": "up-1779705936885",
+      "timestamp": "2026-05-25T10:45:10.870Z",
+      "speaker": "Hariharan",
+      "originalText": "[CMR Academic Block Phase 02]\n• [Consultant Coordination] Completed formwork layout revisions for first and second floors and coordinated with the structural engineering team\n• [Design Drafting] Finalized architectural plan revisions for the first floor",
+      "projects": [
+        "CMR Academic Block Phase 02"
+      ]
+    },
+    {
+      "id": "up-1779705314147",
+      "timestamp": "2026-05-25T10:33:47.476Z",
+      "speaker": "Mishal",
+      "originalText": "• General progress update: Update #1: Project : Pallikkoodam \nWork done : first floor lobby civil layout",
+      "projects": []
+    },
+    {
+      "id": "up-1779705280019",
+      "timestamp": "2026-05-25T10:33:29.543Z",
+      "speaker": "Rithin Sam",
+      "originalText": "[CMR Sports Block]\n• [Client Presentation] Develop interior presentation materials\n• [Design Drafting] Delegate interior presentation tasks to junior staff",
+      "projects": [
+        "CMR Sports Block"
+      ]
+    },
+    {
+      "id": "up-1779705219760",
+      "timestamp": "2026-05-25T10:32:40.041Z",
+      "speaker": "Meural",
+      "originalText": "[CMR SOET]\n• [Design Drafting] Update #1: CMR SOET - Door window schedule",
+      "projects": [
+        "CMR SOET",
+        "CMR Academic Block Phase 02",
+        "CMR Academic Block Phase 01 Interior",
+        "CMR Sports Block",
+        "CMR Trust Office"
+      ]
+    }
+  ],
+  "team": [
+    {
+      "name": "Shon Prasad",
+      "role": "Architecture Studio Head",
+      "avatar": "👨‍💻",
+      "telegramId": "s***",
+      "isFounder": false,
+      "receivesLateReport": true,
+      "telegramChatId": 275764737
+    },
+    {
+      "name": "Harish **",
+      "role": "Architect",
+      "avatar": "📐",
+      "telegramId": "ha***",
+      "isFounder": false,
+      "receivesLateReport": false,
+      "telegramChatId": 978498842
+    },
+    {
+      "name": "Sai **",
+      "role": "Principal Architect",
+      "avatar": "👑",
+      "telegramId": "sa***",
+      "isFounder": true,
+      "receivesLateReport": false
+    },
+    {
+      "name": "Mishal",
+      "role": "Architect",
+      "avatar": "📐",
+      "telegramId": "mi***",
+      "isFounder": false,
+      "receivesLateReport": false,
+      "telegramChatId": 1121288865
+    },
+    {
+      "name": "Aardhra",
+      "role": "Architect",
+      "avatar": "👩‍💼",
+      "telegramId": "aa***",
+      "isFounder": false,
+      "receivesLateReport": false,
+      "telegramChatId": 883924129
+    },
+    {
+      "name": "Rithin **",
+      "role": "Architect",
+      "avatar": "📐",
+      "telegramId": "rith***",
+      "isFounder": false,
+      "receivesLateReport": false,
+      "telegramChatId": 8827458477
+    },
+    {
+      "name": "Hariharan",
+      "role": "Architect",
+      "avatar": "📐",
+      "telegramId": "har***",
+      "isFounder": false,
+      "receivesLateReport": false,
+      "telegramChatId": 1226637617
+    },
+    {
+      "name": "Abhishri",
+      "role": "Architect",
+      "avatar": "📐",
+      "telegramId": "abh***",
+      "isFounder": false,
+      "receivesLateReport": false,
+      "joiningDate": "2026-05-25",
+      "telegramChatId": 1104373542
+    },
+    {
+      "name": "Stephena",
+      "role": "Architect",
+      "avatar": "📐",
+      "telegramId": "ste***",
+      "isFounder": false,
+      "receivesLateReport": false,
+      "telegramChatId": 8892322279
+    },
+    {
+      "name": "Hanan",
+      "role": "Architect",
+      "avatar": "👩‍💼",
+      "telegramId": "hana***",
+      "isFounder": false,
+      "receivesLateReport": false,
+      "joiningDate": "2026-06-02",
+      "telegramChatId": 1220320693
+    },
+    {
+      "name": "Dhanavarsha",
+      "role": "Architect",
+      "avatar": "📐",
+      "telegramId": "var***",
+      "isFounder": false,
+      "receivesLateReport": false,
+      "telegramChatId": 1182343962
+    },
+    {
+      "name": "Pravin",
+      "role": "Architecture Studio Head",
+      "avatar": "👷",
+      "telegramId": "Pra**",
+      "isFounder": false,
+      "receivesLateReport": true,
+      "telegramChatId": 8884642289
+    },
+    {
+      "name": "Shriya",
+      "role": "Intern",
+      "avatar": "📐",
+      "telegramId": "sh***",
+      "isFounder": false,
+      "receivesLateReport": false,
+      "joiningDate": "2026-05-26",
+      "telegramChatId": 8679780181
+    }
+  ],
+  "pendingQueues": {
+    "Shon Prasad": [],
+    "Harish Parthiban": [
+      {
+        "timestamp": "2026-06-02T16:35:05.319Z",
+        "text": "This is regarding Rax Policodom site visit. Today, we have discussed regarding clearance of interior doubts, civil pending works, plumbing doubts, plumbing clearances."
+      }
+    ],
+    "Sai Shankar Bharathan": [
+      {
+        "timestamp": "2026-05-25T09:27:26.106Z",
+        "text": "hi"
+      }
+    ],
+    "Mishal": [],
+    "Aardhra": [],
+    "Rithin Sam": [],
+    "Hariharan": [],
+    "Abhishri": [],
+    "Stephena": [
+      {
+        "timestamp": "2026-06-06T07:04:25.161Z",
+        "text": "Register leave, \nI’m having quite severe menstrual cramps today and am not feeling well enough to come in. \nTaking the day off."
+      }
+    ],
+    "Hanan": [],
+    "Dhanavarsha": [
+      {
+        "timestamp": "2026-06-03T03:49:03.678Z",
+        "text": "Sent comments for forced ventilation drawings to consultant of EKYA SPARC"
+      },
+      {
+        "timestamp": "2026-06-03T03:50:12.896Z",
+        "text": "Sent comments for 2nd and upper floor formworkd"
+      },
+      {
+        "timestamp": "2026-06-03T03:51:18.239Z",
+        "text": "Sent latest drawings of EKYA SPARC to PHE consultant for latest layouts"
+      }
+    ],
+    "Pravin Raj Kumar": [],
+    "Shriya": []
+  },
+  "botStates": {
+    "Shon Prasad": {
+      "state": "idle",
+      "tempBlocker": "",
+      "tempAnalysis": null,
+      "pendingBlockers": []
+    },
+    "Harish Parthiban": {
+      "state": "idle",
+      "tempBlocker": "",
+      "tempAnalysis": null,
+      "pendingBlockers": []
+    },
+    "Sai Shankar Bharathan": {
+      "state": "idle",
+      "tempBlocker": "",
+      "tempAnalysis": null
+    },
+    "Mishal": {
+      "state": "idle",
+      "tempBlocker": "",
+      "tempAnalysis": null,
+      "pendingBlockers": []
+    },
+    "Aardhra": {
+      "state": "idle",
+      "tempBlocker": "",
+      "tempAnalysis": null,
+      "pendingBlockers": []
+    },
+    "Rithin Sam": {
+      "state": "idle",
+      "tempBlocker": "",
+      "tempAnalysis": null,
+      "pendingBlockers": []
+    },
+    "Hariharan": {
+      "state": "idle",
+      "tempBlocker": "",
+      "tempAnalysis": null,
+      "pendingBlockers": []
+    },
+    "Abhishri": {
+      "state": "idle",
+      "tempBlocker": "",
+      "tempAnalysis": null,
+      "pendingBlockers": []
+    },
+    "Stephena": {
+      "state": "idle",
+      "tempBlocker": "",
+      "tempAnalysis": null,
+      "pendingBlockers": []
+    },
+    "Hanan": {
+      "state": "idle",
+      "tempBlocker": "",
+      "tempAnalysis": null,
+      "pendingBlockers": []
+    },
+    "Dhanavarsha": {
+      "state": "idle",
+      "tempBlocker": "",
+      "tempAnalysis": null,
+      "pendingBlockers": []
+    },
+    "Pravin Raj Kumar": {
+      "state": "idle",
+      "tempBlocker": "",
+      "tempAnalysis": null,
+      "pendingBlockers": []
+    },
+    "Shriya": {
+      "state": "idle",
+      "tempBlocker": "",
+      "tempAnalysis": null,
+      "pendingBlockers": []
+    }
+  },
+  "blockers": [
+    {
+      "id": "block-1779705314147-0",
+      "date": "2026-05-25T10:35:14.147Z",
+      "speaker": "Mishal",
+      "project": "General Studio / Unassigned",
+      "text": "Need confirmation from Pravin",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1779717734782-0",
+      "date": "2026-05-25T14:02:14.782Z",
+      "speaker": "Aardhra",
+      "project": "CMR Academic Block Phase 01 Interior",
+      "text": "CMR ACADEMIC BLOCK INTERIORS\n\n1. Need confirmation on the paint options from sai sir",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1779717734782-1",
+      "date": "2026-05-25T14:02:14.782Z",
+      "speaker": "Aardhra",
+      "project": "CMR Academic Block Phase 01 Interior",
+      "text": "Rak’s pallikkoodam\n\n1. Flooring drawing have been shared to mishal - for addition of mound and atlier corrections",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1779718830037-0",
+      "date": "2026-05-25T14:20:30.037Z",
+      "speaker": "Pravin Raj Kumar",
+      "project": "Guntur STEM School",
+      "text": "Awaiting Guntur client's confirmation over project cost as the cost is exceeding the estimated value.",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1779719290270-0",
+      "date": "2026-05-25T14:28:10.270Z",
+      "speaker": "Harish Parthiban",
+      "project": "Guntur STEM School",
+      "text": "Addressing structural complications regarding the Guntur STEM School framework",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1779722740344-0",
+      "date": "2026-05-25T15:25:40.344Z",
+      "speaker": "Shon Prasad",
+      "project": "CMR Academic Block Phase 01 Interior",
+      "text": "Pending receipt of finalized structural hard copies for CMR Academic Block Phase 02.",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1779861110511-0",
+      "date": "2026-05-27T05:51:50.511Z",
+      "speaker": "Aardhra",
+      "project": "CMR Academic Block 01 Interior",
+      "text": "Raks \n. Need confirmation on b3 block and dresser unit area\n. Need the clarity on flooring if its changed to orient\n. Was not able to reach handrail person \n. Glass vendor was not picking up \n. Glass blocks - vendor needs to send quote",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1779864144848-0",
+      "date": "2026-05-27T06:42:24.848Z",
+      "speaker": "Shon Prasad",
+      "project": "CMR SOET",
+      "text": "Need Sai sir's input on CMR Sports facilities.",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1779867429763-0",
+      "date": "2026-05-27T07:37:09.763Z",
+      "speaker": "Dhanavarsha",
+      "project": "CMR Sports Block",
+      "text": "Completed the CMR Sports block plan presentation",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1779892896104-0",
+      "date": "2026-05-27T14:41:36.104Z",
+      "speaker": "Aardhra",
+      "project": "CMR Academic Block Phase 01 Interior",
+      "text": "1.Fooring decision need to be get \n2. Glass work colour finalization and vendor finalized need to know to send file\n3.b3 block not yet confirmed\n4. Furniture colour finalization need to be got from madam",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1780113532558-0",
+      "date": "2026-05-30T03:58:52.558Z",
+      "speaker": "Harish Parthiban",
+      "project": "Raks Pallikkoodam",
+      "text": "Approval for PHE saravanan for plumbing layout and EWH placement",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1780114147380-0",
+      "date": "2026-05-30T04:09:07.380Z",
+      "speaker": "Mishal",
+      "project": "Raks Pallikkoodam",
+      "text": "Need confirmation on false ceiling details from Ar. Pravin",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1780153086057-0",
+      "date": "2026-05-30T14:58:06.057Z",
+      "speaker": "Shon Prasad",
+      "project": "EKYA Nice Road",
+      "text": "🏁 Done Logging EOD",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1780326032647-0",
+      "date": "2026-06-01T15:00:32.647Z",
+      "speaker": "Dhanavarsha",
+      "project": "EKYA SPARC",
+      "text": "Fabrication vendor isn’t responding for EKYA SPARC",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1780328197341-0",
+      "date": "2026-06-01T15:36:37.341Z",
+      "speaker": "Mishal",
+      "project": "Raks Pallikkoodam",
+      "text": "Need drawings from Yogesh for mound and lobby entrance staircase structure",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1780410968376-0",
+      "date": "2026-06-02T14:36:08.376Z",
+      "speaker": "Dhanavarsha",
+      "project": "EKYA SPARC",
+      "text": "Chavan is not responding. \nNeed forced ventilation drawings and BOQ from him to send to client",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1780410968376-1",
+      "date": "2026-06-02T14:36:08.376Z",
+      "speaker": "Dhanavarsha",
+      "project": "EKYA SPARC",
+      "text": "Vikram kamath is not responding",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1780466211483-0",
+      "date": "2026-06-03T05:56:51.483Z",
+      "speaker": "Mishal",
+      "project": "Raks Pallikkoodam",
+      "text": "Blockers : need approval from Ar.Pravin to proceed further",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1780495630886-0",
+      "date": "2026-06-03T14:07:10.886Z",
+      "speaker": "Mishal",
+      "project": "Raks Pallikkoodam",
+      "text": "Blockers : \nNeed to discuss with Ar.Pravin and Sai sir to proceed further",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1780580420072-0",
+      "date": "2026-06-04T13:40:20.072Z",
+      "speaker": "Stephena",
+      "project": "General Studio / Unassigned",
+      "text": "Some materials yet to be finalized.",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1780666570480-0",
+      "date": "2026-06-05T13:36:10.480Z",
+      "speaker": "Stephena",
+      "project": "Raks Pallikkoodam",
+      "text": "Waiting for laminate shades to be confirmed by Pravin.",
+      "status": "Pending",
+      "assignedTo": "",
+      "resolution": ""
+    },
+    {
+      "id": "block-1780756620035-0",
+      "date": "2026-06-06T14:37:00.035Z",
+      "speaker": "Shon Prasad",
+      "project": "CMR SOET",
+      "text": "The HVAC consultant should accept the changes",
+      "status": "Closed",
+      "assignedTo": "Shon Prasad",
+      "resolution": ""
+    }
+  ],
+  "settings": {
+    "telegramBotToken": "",
+    "geminiApiKey": "••••••••Ou80",
+    "reminderTime": "20:00",
+    "notificationsEnabled": true,
+    "mutedDays": [
+      "2026-05-28"
+    ],
+    "lastCronRuns": {
+      "lateReport": "2026-06-07",
+      "reminders": "2026-06-06",
+      "backup": "2026-06-07",
+      "morning": "2026-06-06"
+    },
+    "customHolidays": [
+      {
+        "date": "2026-05-28",
+        "name": "Bakrid",
+        "type": "holiday"
+      }
+    ]
+  }
+}
