@@ -1,1 +1,1 @@
-﻿# Architeecture Studio Brain
+﻿# Architecture Studio Brain
