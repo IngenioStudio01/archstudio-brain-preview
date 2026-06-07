@@ -517,8 +517,11 @@ function verifyAdminSecret(req, res, next) {
   const path = req.path;
   const method = req.method;
 
-  // Let's protect POST to all APIs EXCEPT /api/telegram-webhook (CORS / Auth handled inside endpoints) (H2)
-  const isPublicPost = path === '/api/telegram-webhook';
+  // Let's protect POST to all APIs EXCEPT public endpoints (H2)
+  const isPublicPost = 
+    path === '/api/telegram-webhook' || 
+    path === '/api/chat-query' || 
+    path === '/api/summarize-weekly-report';
 
   if (method === 'POST' && path.startsWith('/api/') && !isPublicPost) {
     if (!process.env.ADMIN_SECRET) {
